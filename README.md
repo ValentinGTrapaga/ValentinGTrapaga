@@ -5,7 +5,7 @@
 -  I am a selftaught `Frontend Web Developer`.
 - I love using Software as a solution for every `Problem`
 - I’m currently learning: `Web Development` and some `Data Science`.
-- Currently working on my `ReactJS` and `Python` skills.
+- Working on my `ReactJS` and `Python` skills.
 - I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1DxYsRRYEmyk64JasQX1rGuTVajnSJQVo/view?usp=sharing).
 - I'm setting up my portfolio page, so for now you can check my projects right here in my repos.
 

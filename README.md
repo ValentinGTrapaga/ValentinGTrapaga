@@ -45,5 +45,9 @@
     </tbody>
 </table>
 
+## <h2>My github stats</h2>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinGTrapaga&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 

@@ -5,7 +5,7 @@
 - I love using Software as a solution for problems I can encounter daily.
 - I’m learning: `Web Development` and some `Python`.
 - Working on my `ReactJS` and skills.
-- I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1DxYsRRYEmyk64JasQX1rGuTVajnSJQVo/view?usp=sharing).
+- I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/13L4JdoDH6bvC0cU4if1mK-6SADrhqVja6GSO3P7pAUI/edit?usp=sharing).
 - I'm setting up my portfolio page, so for now you can check my projects right here in my repos.
 - In the future I'd like to learn `FullStack Web Development`.
 

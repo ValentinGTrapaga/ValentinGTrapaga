@@ -5,7 +5,7 @@
 - I love using Software as a solution for problems I can encounter daily.
 - I’m learning: `FullStack Web Development`.
 - Currently working on my `ReactJS` and `NodeJs` skills.
-- I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1MOP3ApkptX7hTY30woxiLmEScX_BD3q3/edit?usp=sharing&ouid=103532927219661287514&rtpof=true&sd=true).
+- I’m open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1MOP3ApkptX7hTY30woxiLmEScX_BD3q3/edit?usp=sharing&ouid=103532927219661287514&rtpof=true&sd=true).
 - You can also check up my [portfolio](https://portfolio-v1-valentingtrapaga.vercel.app/) to get in contact with me.
 
 ## <h2>Languages and Tools I handle right now:</h2>

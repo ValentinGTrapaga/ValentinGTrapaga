@@ -4,9 +4,9 @@
 - I am a selftaught `Frontend Web Developer`.
 - I love using Software as a solution for problems I can encounter daily.
 - I’m learning: `FullStack Web Development`.
-- Working on my `ReactJS` and `NodeJs` skills.
+- Currently working on my `ReactJS` and `NodeJs` skills.
 - I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1MOP3ApkptX7hTY30woxiLmEScX_BD3q3/edit?usp=sharing&ouid=103532927219661287514&rtpof=true&sd=true).
-- I'm setting up my portfolio page, so for now you can check my projects right here in my repos.
+- You can also check up my [portfolio](https://portfolio-v1-valentingtrapaga.vercel.app/) to get in contact with me.
 
 ## <h2>Languages and Tools I handle right now:</h2>
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
   
 </p>
 
@@ -32,8 +33,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
-  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-  
 </p>
 
 ## <h2>My github stats</h2>

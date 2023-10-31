@@ -5,7 +5,7 @@ Results-driven, self-taught frontend developer with strong technical and problem
 
 - I am a selftaught `Fullstack Developer`.
 - I love using Software as a solution for problems I encounter daily.
-- I’m open for `An Internship` or a new `job opportunity`, this is [my portfolio]([https://docs.google.com/document/d/1RE4QViP6qmnONd1YLdHhe8Jo7HYn4yYzOXhV1pMBX9k/edit?usp=sharing](https://portfolio-v2-git-main-valentingtrapaga.vercel.app/)).
+- I’m open for a new `job opportunity`, this is [my portfolio](https://portfolio-v2-git-main-valentingtrapaga.vercel.app/).
 - [LinkedIn](https://www.linkedin.com/in/valentin-gonzalez-trapaga/) to get in contact with me.
 
 ## <h2>Languages and Tools I handle right now:</h2>

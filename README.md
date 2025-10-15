@@ -11,7 +11,7 @@ Results-driven, self-taught frontend developer with strong technical and problem
 ## <h2>Languages and Tools I handle right now:</h2>
 
 <p>
-JavaScript | TypeScript | React JS | Node JS | Express | MongoDB | NextJS | MySQL
+JavaScript | TypeScript | React JS | Node JS | Express | MongoDB | NextJS | MySQL | PostgreSQL | NextJs | NestJS | Prisma | AWS
 </p>
 
 ## <h2>My github stats</h2>
